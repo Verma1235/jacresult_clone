@@ -1,5 +1,5 @@
 <?php
-$conn=mysqli_connect("localhost","root","","jacresults");
+$conn=mysqli_connect("localhost","username","password","jacresults");
 
 // if(!$conn){
 //     echo"not connect";
