@@ -89,7 +89,7 @@ Include screenshots of:
 1. Clone this repository:
 
 ```bash
-git clone <your-repo-url>
+git clone git clone https://github.com/Verma1235/jacresult_clone.git
 ```
 
 2. Place it in your **local PHP server** (like XAMPP, WAMP, or MAMP).
