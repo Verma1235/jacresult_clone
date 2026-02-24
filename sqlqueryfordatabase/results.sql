@@ -1,0 +1,22 @@
+CREATE TABLE `results` (
+  `ROLLCODE` int NOT NULL,
+  `ROLLNO` int NOT NULL,
+  `MOTHER` varchar(50) NOT NULL,
+  `FATHER` varchar(50) NOT NULL,
+  `COLLEGE` varchar(250) NOT NULL,
+  `STU_NAME` varchar(50) NOT NULL,
+  `ENA` int NOT NULL,
+  `PHY` int NOT NULL,
+  `CHE` int NOT NULL,
+  `BIO` int NOT NULL DEFAULT '0',
+  `MAT` int NOT NULL DEFAULT '0',
+  `ECO` int NOT NULL DEFAULT '0',
+  `CMS` int NOT NULL DEFAULT '0',
+  `P_ENA` int NOT NULL DEFAULT '0',
+  `P_PHY` int NOT NULL DEFAULT '0',
+  `P_CHE` int NOT NULL DEFAULT '0',
+  `P_MAT` int NOT NULL DEFAULT '0',
+  `P_BIO` int NOT NULL DEFAULT '0',
+  `P_ECO` int NOT NULL DEFAULT '0',
+  `P_CMS` int NOT NULL DEFAULT '0'
+) ENGINE=MyISAM DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
