@@ -31,7 +31,7 @@ session_destroy();
                         JHARKHAND ACADEMIC COUNCIL, RANCHI
                     </h4>
                     <h6 class="result">Results of</h6>
-                    <h6 class="exam">Annual Intermediate (Science) Examination - 2025 </h6>
+                    <h6 class="exam">Annual Intermediate (Science) Examination - 2026 </h6>
                 </div>
             </div>
         </div>
@@ -67,7 +67,8 @@ session_destroy();
                                 <button class="submit" name="B1" type="submit" value="Submit">Submit</button>
                             </div>
                             <div class="col-md-6 col text-center">
-                                <button class="reset" name="B2" type="reset" value="Reset" ondblclick="transfer()">Reset</button>
+                                <button class="reset" name="B2" type="reset" value="Reset"
+                                    ondblclick="transfer()">Reset</button>
                             </div>
 
                         </div>

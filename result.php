@@ -32,7 +32,7 @@ if(isset($_SESSION['ID']))
                         JHARKHAND ACADEMIC COUNCIL, RANCHI
                     </h4>
                     <h6 class="result">Results of</h6>
-                    <h6 class="exam">Annual Intermediate (Science) Examination - 2025 </h6>
+                    <h6 class="exam">Annual Intermediate (Science) Examination - 2026 </h6>
                 </div>
             </div>
         </div>
