@@ -1,5 +1,4 @@
 <?php
-// $conn=mysqli_connect("localhost","root","","jacresults");
 
 
 
@@ -18,12 +17,5 @@ if (!$conn) {
 
 
 
-// if(!$conn){
-//     echo"not connect";
-    
-// }
-// else{
-//     echo"connected";
-// }
 
 ?>
