@@ -51,7 +51,7 @@ $(document).ready(function () {
                             // alert(data)
 
                         } else {
-                            window.location.href = "result.php";
+                            window.location.href = "result2.php";
                             // alert(data);
                         }
                         // message("",data,"");

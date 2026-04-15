@@ -9,7 +9,7 @@ if (isset($_SESSION['ID'])) {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=0.5">
-    <title>Jharkhand Academic Council 2025 - Results Jharkhand State Unit, Ranchi</title>
+    <title>Jharkhand Academic Council 2026 - Results Jharkhand State Unit, Ranchi</title>
     <link rel="icon" href="images/jac_logo-removebg-preview.png" type="image/icon type">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
     <link rel="stylesheet" href="css/style.css">
@@ -146,6 +146,7 @@ if (isset($_SESSION['ID'])) {
                             <th class="th2"><center><?php echo $_SESSION['G_ECO']; ?></center></th>
                             <th class="th2" colspan="2"><center>#</center></th>
                         <?php } ?>
+                        
                     </tr>
 
                     <!-- TOTAL, RESULT, PERCENTAGE -->
